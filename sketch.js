@@ -18,7 +18,7 @@ function setup() {
   
   foodObj = new Food();
   
-  dog = createSprite(250,300,150,150);
+  dog = createSprite(800,220,150,150);
   dog.addImage(dogImg)
   dog.scale = 0.15
 
